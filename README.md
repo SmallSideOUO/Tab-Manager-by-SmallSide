@@ -19,14 +19,14 @@ A powerful Chrome extension to organize and manage your browser tabs efficiently
 
 Join our Discord community for updates, feature requests, and support:
 
-[Join Discord](https://discord.gg/Yq5KQW5FeN)
+[Join Discord](https://discord.gg/PktTwPP4vV)
 
 ## Links
 
 - [Privacy Policy](./privacy-policy)
-- [Discord Community](https://discord.gg/Yq5KQW5FeN)
+- [Discord Community](https://discord.gg/PktTwPP4vV)
 
 ## Contact
 
-- Discord: [https://discord.gg/Yq5KQW5FeN](https://discord.gg/Yq5KQW5FeN)
+- Discord: [https://discord.gg/PktTwPP4vV](https://discord.gg/PktTwPP4vV)
 - GitHub: [https://github.com/SmallSideOUO/Tab-Manager-by-SmallSide](https://github.com/SmallSideOUO/Tab-Manager-by-SmallSide)

@@ -62,7 +62,7 @@ You can:
 ## Contact
 
 If you have questions about this privacy policy, please contact us through:
-- Discord: https://discord.gg/Yq5KQW5FeN
+- Discord: https://discord.gg/PktTwPP4vV
 - GitHub: https://github.com/SmallSideOUO/Tab-Manager-by-SmallSide
 
 ## Changes to This Policy
