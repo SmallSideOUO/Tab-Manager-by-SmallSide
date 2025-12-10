@@ -1,0 +1,6 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Tab Manager by SmallSide
+description: Organize your browser tabs with ease
