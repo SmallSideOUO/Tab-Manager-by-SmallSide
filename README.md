@@ -13,7 +13,7 @@ A powerful Chrome extension to organize and manage your browser tabs efficiently
 
 ## Download
 
-[Get it on Chrome Web Store](https://chrome.google.com/webstore)
+[Get it on Chrome Web Store](https://chromewebstore.google.com/detail/tab-manager-by-smallside/lapigcniijngpmflegmkfanclcbojmil?hl=zh-TW&utm_source=ext_sidebar)
 
 ## Community
 
@@ -29,4 +29,4 @@ Join our Discord community for updates, feature requests, and support:
 ## Contact
 
 - Discord: [https://discord.gg/Yq5KQW5FeN](https://discord.gg/Yq5KQW5FeN)
-- GitHub: [https://github.com/SmallSideOUO/Tab-Manager-Privacy-Policy](https://github.com/SmallSideOUO/Tab-Manager-Privacy-Policy)
+- GitHub: [https://github.com/SmallSideOUO/Tab-Manager-by-SmallSide](https://github.com/SmallSideOUO/Tab-Manager-by-SmallSide)
